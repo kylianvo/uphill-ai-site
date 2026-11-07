@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[6751,["73","static/chunks/73-09e29546e700a348.js","43","static/chunks/43-a477be968c1ea1fc.js","177","static/chunks/app/layout-0697e2fdcbc78bd7.js"],"default"]
+3:I[8305,["73","static/chunks/73-09e29546e700a348.js","43","static/chunks/43-a477be968c1ea1fc.js","177","static/chunks/app/layout-0697e2fdcbc78bd7.js"],"default"]
+4:I[43,["73","static/chunks/73-09e29546e700a348.js","43","static/chunks/43-a477be968c1ea1fc.js","177","static/chunks/app/layout-0697e2fdcbc78bd7.js"],"AppProvider"]
+5:I[7121,[],""]
+6:I[4581,[],""]
+:HL["/_next/static/css/be6aa7206294ef2d.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Fustat:wght@400;500;600;700;800&display=swap","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/be6aa7206294ef2d.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"__variable_a38a09 __variable_5f34dc","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Fustat:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}],["$","script",null,{"src":"https://accounts.google.com/gsi/client","async":true,"defer":true}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]}]]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6B06Y8xyX5O3eAZmpTryY"}
